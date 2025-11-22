@@ -2,9 +2,9 @@
 <h3 align="center">Learning Fullstack Development</h3>
 
 
-• 📫 Email me at (mailto:sifathhossain115@gmail.com)
-• 🔗 [Connect With Me](https://www.linkedin.com/in/faiyaz-hossain-031491218/)
-• 📃 [View My Resume](https://drive.google.com/file/d/1lnHP87JmPAIPSFuNnB_G6c2aVhBTBTyF/view?usp=sharing)
+• 📫 Email me at (mailto:sifathhossain115@gmail.com)  
+• 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/faiyaz-hossain-031491218/)  
+• 📃 [View My Resume](https://drive.google.com/file/d/1lnHP87JmPAIPSFuNnB_G6c2aVhBTBTyF/view?usp=sharing)  
 
 <!--
 - 🔭 I’m currently working on ...
