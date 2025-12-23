@@ -5,7 +5,7 @@
 • 🌱 Currently exploring and building fullstack web applications  
 • 📫 Email me at (mailto:sifathhossain115@gmail.com)  
 • 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/faiyaz-hossain-031491218/)  
-• 📃 [View My Resume](https://drive.google.com/file/d/1lnHP87JmPAIPSFuNnB_G6c2aVhBTBTyF/view?usp=sharing)  
+• 📃 [View My Resume]([https://drive.google.com/file/d/1lnHP87JmPAIPSFuNnB_G6c2aVhBTBTyF/view?usp=sharing](https://drive.google.com/file/d/1oqQ7A757bB8c7qoY2LRU-5AfXe8Em5RT/view?usp=sharing))
 
 
 <h4 align="left">Languages and Tools:</h3>
